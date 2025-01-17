@@ -1,0 +1,8 @@
+title: Torch - gestionale magazzino
+options: Opzioni
+close: Chiudi
+warning: Attenzione
+database_options_placeholder: Stringa di connessione al database
+username_options_placeholder: Nome utente
+password_options_placeholder: Password
+goods: Articoli

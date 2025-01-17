@@ -1,0 +1,5 @@
+new_good: Nuovo Articolo
+goods_page: Pagina
+goods_table_good: Articolo
+goods_table_quantity: Quantità
+goods_table_price: Prezzo

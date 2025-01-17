@@ -1,0 +1,8 @@
+options: Opzioni
+database_options_placeholder: Stringa di connessione al database
+username_options_placeholder: Nome utente
+password_options_placeholder: Password
+auto_login: Login automatico
+save_options: Salva
+options_field_warning_message: I campi devono essere tutti compilati!
+warning: Attenzione
