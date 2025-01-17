@@ -36,7 +36,7 @@ class Settings(object):
         return style
     
     # Settings save function
-    def save_settings(self, db_connection_string:str, username:str, password:str):
+    def save_settings(self, db_connection_string:str, username:str, password:str) -> None:
         with open(os.path.join(self.main_directory, "settings.txt"), "w") as settings_file:
             settings_file.write(f"database_connection_string: {db_connection_string}\n")
             settings_file.write(f"username: {username}\n")
